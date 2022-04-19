@@ -1,0 +1,25 @@
+.contact-info-title {
+    font-weight: bolder;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contat_info_item {
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px;
+    
+
+}
+
+#main-div{
+    background-color: rgb(142, 91, 26);
+    margin:20px;
+    margin-top: 40px;
+    padding: 20px;
+}
+.contact-info-title, .contact_info_detail{
+    font-family: sans-serif;
+    font-size: 20px;
+    padding:2px;
+    
+}
